@@ -8,30 +8,30 @@ maps
 	MAP01
 	{
 		
+		grid
+		{
+			background = "";
+			backoffsetx = 0;
+			backoffsety = 0;
+			backscalex = 100;
+			backscaley = 100;
+			backsource = 0;
+			gridsize = 32;
+		}
+		
+		
 		resources
 		{
 			
 			resource0
 			{
 				type = 0;
-				location = "C:\\Users\\maxbu\\Saved Games\\Doom\\DooMod\\School Beat Up\\Doom2.wad";
+				location = "C:\\Users\\maxbu\\Saved Games\\Doom\\DooMod\\TOOM\\Doom2.wad";
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
 			}
 			
-		}
-		
-		
-		grid
-		{
-			background = "";
-			backsource = 0;
-			backoffsetx = 0;
-			backoffsety = 0;
-			backscalex = 100;
-			backscaley = 100;
-			gridsize = 32;
 		}
 		
 	}
