@@ -16,7 +16,7 @@ maps
 			backscalex = 100;
 			backscaley = 100;
 			backsource = 0;
-			gridsize = 32;
+			gridsize = 16;
 		}
 		
 		
@@ -30,6 +30,16 @@ maps
 				option1 = 0;
 				option2 = 0;
 				notfortesting = 0;
+			}
+			
+			
+			resource1
+			{
+				type = 2;
+				location = "C:\\Users\\maxbu\\Saved Games\\Doom\\DooMod\\TOOM\\gzdoom.pk3";
+				option1 = 0;
+				option2 = 0;
+				notfortesting = 1;
 			}
 			
 		}
